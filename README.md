@@ -6,3 +6,5 @@
 >* **Signin** to *Outlock*
 >* **Singup** to *Instagram*
 >* **Singin** to *Instagram*
+## Comments / Questions
+>You can reach me at [linkedin](https://www.linkedin.com/in/khalid-dies-195797203/)
